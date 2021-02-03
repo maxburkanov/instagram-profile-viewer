@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/instagram-profile-viewer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/instagram-profile-viewer/static/js/main.c69d865b.chunk.js",
+    "main.js.map": "/instagram-profile-viewer/static/js/main.c69d865b.chunk.js.map",
+    "runtime-main.js": "/instagram-profile-viewer/static/js/runtime-main.893454a1.js",
+    "runtime-main.js.map": "/instagram-profile-viewer/static/js/runtime-main.893454a1.js.map",
+    "static/js/2.ad6b2fa9.chunk.js": "/instagram-profile-viewer/static/js/2.ad6b2fa9.chunk.js",
+    "static/js/2.ad6b2fa9.chunk.js.map": "/instagram-profile-viewer/static/js/2.ad6b2fa9.chunk.js.map",
+    "static/js/3.9e7d0d05.chunk.js": "/instagram-profile-viewer/static/js/3.9e7d0d05.chunk.js",
+    "static/js/3.9e7d0d05.chunk.js.map": "/instagram-profile-viewer/static/js/3.9e7d0d05.chunk.js.map",
+    "index.html": "/instagram-profile-viewer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/instagram-profile-viewer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ad6b2fa9.chunk.js.LICENSE.txt": "/instagram-profile-viewer/static/js/2.ad6b2fa9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/instagram-profile-viewer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.893454a1.js",
+    "static/js/2.ad6b2fa9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c69d865b.chunk.js"
+  ]
+}
